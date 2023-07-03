@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.post-container {
+    width: 70%;
+    height: 100%;
+    margin: 0px auto 0px auto;
+    background-color: #fffafa;
+    padding: 10px;
+    line-height: 2em;
+    
+}
+
+.post .date {
+    font-family: 'Roboto', sans-serif;
+    color: #008080;
+}
+
+.post-content {
+    text-align: justify;
+    text-indent: 1em;
+    font-variant: bold;
+}
